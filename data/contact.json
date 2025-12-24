@@ -1,25 +1,25 @@
 {
-  "email": "shabnamr214@gmail.com",
-  "phone": "5174021656",
+  "email": "nirmalaaiswaryadosibhatla@gmail.com",
+  "phone": "9409772944",
   "socials": [
     {
       "name": "Email",
-      "username": "shabnamr214@gmail.com",
-      "url": "mailto:shabnamr214@gmail.com",
+      "username": "nirmalaaiswaryadosibhatla@gmail.com",
+      "url": "mailto:nirmalaaiswaryadosibhatla@gmail.com",
       "icon": "email"
     },
     {
       "name": "Phone",
-      "username": "+1 (517) 402-1656",
-      "url": "tel:+15174021656",
+      "username": "+1 (940) 977-2944",
+      "url": "tel:+19409772944",
       "icon": "phone"
     },
     {
       "name": "LinkedIn",
-      "username": "Shabnam Rani",
-      "url": "https://linkedin.com/in/shabnam-rani",
+      "username": "Aiswarya",
+      "url": "https://linkedin.com/in/Aiswarya",
       "icon": "linkedin"
     }
   ],
-  "repoUrl": "https://github.com/shabnamrani/portfolio"
+  "repoUrl": "https://github.com/dosibhatlanirmalaaiswarya-bit/portfolio"
 }

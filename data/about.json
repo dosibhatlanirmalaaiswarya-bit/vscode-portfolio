@@ -1,14 +1,14 @@
 {
   "bio": [
-    "Hello! I'm Shabnam Rani, a detail-oriented Business Analyst with 3+ years of experience in insurance and risk domains, supporting enterprise-level digital transformation and process optimization initiatives.",
-    "I'm skilled in gathering and translating complex business requirements into actionable deliverables including BRDs, FRDs, and SRS documents. My expertise spans across underwriting, claims processing, and risk assessment domains.",
-    "I'm proficient in analysis using SQL, Python scripting, and BI tools like Power BI and Tableau to drive insights, optimize workflows, and support strategic decisions. I've successfully reduced manual processing time by 25% and improved customer retention by 15% through data-driven dashboards."
+    "Hello! I'm Aiswarya Dosibhatla, an experienced Data Analyst with 3+ years of experience in data analysis, ETL development, and business intelligence.",
+    "I'm proficient in Python, SQL, Power BI, Snowflake, and cloud platforms including Azure and AWS. I've delivered actionable insights, improving reporting accuracy by 25%.",
+    "My expertise includes designing dashboards, automating workflows, and optimizing data pipelines to enhance operational efficiency. I have a strong capability to translate business requirements into data-driven solutions for strategic initiatives."
   ],
   "highlights": [
-    "3+ years in insurance and risk domains",
-    "Expert in BRD, FRD, SRS documentation",
-    "Proficient in SQL, Python, Power BI, Tableau",
-    "Agile/Scrum & Waterfall methodologies"
+    "3+ years in data analysis and ETL development",
+    "Expert in Python, SQL, Power BI, Snowflake",
+    "Proficient in Azure, AWS, and GCP cloud platforms",
+    "Agile/Scrum methodologies & GDPR/HIPAA compliance"
   ],
-  "interests": ["Data Analysis", "Process Optimization", "Strategic Planning", "Digital Transformation"]
+  "interests": ["Data Analysis", "ETL Development", "Business Intelligence", "Data Visualization"]
 }

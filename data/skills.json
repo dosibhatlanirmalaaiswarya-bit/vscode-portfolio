@@ -1,44 +1,44 @@
 {
   "categories": [
     {
-      "name": "Business Analysis",
-      "icon": "fas fa-chart-line",
-      "skills": ["Requirements Gathering", "Business Process Modeling", "Workflow Automation", "Risk Assessment", "Process Optimization", "User Stories", "Use Cases"]
-    },
-    {
-      "name": "Documentation",
-      "icon": "fas fa-file-alt",
-      "skills": ["Business Requirements Document (BRD)", "Functional Requirement Document (FRD)", "System Requirement Specifications (SRS)"]
-    },
-    {
-      "name": "Languages & Tools",
+      "name": "Programming & Scripting",
       "icon": "fas fa-code",
-      "skills": ["Python Scripting", "SQL"]
+      "skills": ["Python", "R", "SQL", "Shell Scripting"]
     },
     {
-      "name": "Visualization Tools",
+      "name": "Data Warehousing & Databases",
+      "icon": "fas fa-database",
+      "skills": ["Snowflake", "MongoDB", "Redshift", "BigQuery", "Apache Hadoop", "Apache Spark", "MySQL", "PostgreSQL", "Oracle", "Teradata"]
+    },
+    {
+      "name": "Data Integration & ETL",
+      "icon": "fas fa-exchange-alt",
+      "skills": ["Apache Airflow", "REST API", "Apache Kafka", "Data Validation", "Data Quality Checks", "Informatica", "Talend", "SSIS"]
+    },
+    {
+      "name": "Business Intelligence & Visualization",
       "icon": "fas fa-chart-bar",
-      "skills": ["Tableau", "Power BI", "Visual Studio", "Microsoft Visio"]
+      "skills": ["Power BI", "Tableau", "QlikView", "Looker", "KPI Dashboard", "MS Excel", "Matplotlib", "Seaborn"]
+    },
+    {
+      "name": "Cloud Platforms & DevOps",
+      "icon": "fas fa-cloud",
+      "skills": ["Microsoft Azure", "AWS", "GCP", "Kubernetes", "Jenkins", "Docker"]
     },
     {
       "name": "Project Management",
       "icon": "fas fa-tasks",
-      "skills": ["MS Project", "MS Excel", "MS SharePoint", "MS Access", "Jira"]
+      "skills": ["JIRA", "MS Project", "Agile", "Scrum"]
     },
     {
-      "name": "Analysis Skills",
-      "icon": "fas fa-search",
-      "skills": ["Cost/Benefit Analysis", "Impact Analysis", "GAP Analysis", "Risk Analysis", "SWOT Analysis", "Workflow Analysis"]
+      "name": "Compliance & Security",
+      "icon": "fas fa-shield-alt",
+      "skills": ["GDPR", "HIPAA"]
     },
     {
-      "name": "Methodologies",
-      "icon": "fas fa-sitemap",
-      "skills": ["SDLC", "Agile (Scrum)", "Waterfall"]
-    },
-    {
-      "name": "Other Skills",
-      "icon": "fas fa-toolbox",
-      "skills": ["HP Quality Center", "A/B Testing", "JAD", "Rational ClearQuest", "RTM", "UAT", "CRM", "KPIs"]
+      "name": "Version Control",
+      "icon": "fas fa-code-branch",
+      "skills": ["Git", "GitHub"]
     }
   ]
 }

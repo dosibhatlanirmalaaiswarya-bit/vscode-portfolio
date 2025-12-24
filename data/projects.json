@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "name": "Insurance Claims Analytics Dashboard",
-    "image": "/default-project.png",
-    "description": "Interactive Power BI dashboard to visualize loss ratios, customer churn, claims processing KPIs and policy coverage gaps, enabling executive-level decisions that improved customer retention by 15%.",
-    "tags": ["Power BI", "SQL", "Data Analytics", "Insurance"],
-    "source_code": ""
+    "name": "End-to-End Sales Data Warehouse with Medallion Architecture",
+    "image": "/sdoh.jpg",
+    "description": "Developed a modern data warehouse using SQL Server implementing Medallion Architecture (Bronze, Silver, Gold layers) to consolidate sales data from ERP and CRM systems. Performed ETL activities to extract, transform, and load data from CSV files, including data cleansing, standardization, and normalization processes. Designed and implemented star schema with optimized fact and dimension tables to enable analytical reporting and data-driven decision-making.",
+    "tags": ["SQL Server", "ETL", "Medallion Architecture", "Data Warehouse", "Star Schema"],
+    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit"
   },
   {
     "id": 2,
-    "name": "Cloud Migration Risk Analysis",
-    "image": "/default-project.png",
-    "description": "Conducted comprehensive GAP and risk analysis for migrating legacy insurance systems to a cloud-based platform, resulting in a 22% reduction in manual reconciliation tasks.",
-    "tags": ["Risk Analysis", "Cloud Migration", "Business Analysis"],
+    "name": "Global Consolidated Power BI Dashboard",
+    "image": "/portfolio.png",
+    "description": "Executed a Global Consolidated Power BI dashboard with advanced DAX, integrated with Azure cloud, tracking KPIs across 40 regions and reducing reporting time by 40%.",
+    "tags": ["Power BI", "DAX", "Azure", "KPI Dashboard", "Data Analytics"],
     "source_code": ""
   },
   {
     "id": 3,
-    "name": "Claims Workflow Automation",
-    "image": "/default-project.png",
-    "description": "Utilized Microsoft Visio and Excel to model current vs. future state workflows to streamline auto claims workflows, cutting average cycle time by 18% through automation recommendations.",
-    "tags": ["Process Optimization", "Microsoft Visio", "Workflow Automation"],
+    "name": "ETL Pipeline with Azure Data Factory",
+    "image": "/clinical_recruit.png",
+    "description": "Engineered comprehensive ETL pipelines using Azure Data Factory, processing 10M+ daily records and improving multi-source reporting accuracy.",
+    "tags": ["Azure Data Factory", "ETL", "Data Pipeline", "Big Data"],
     "source_code": ""
   },
   {
     "id": 4,
-    "name": "Customer Onboarding Optimization",
-    "image": "/default-project.png",
-    "description": "Performed A/B testing impact analysis on customer onboarding UI variations using SQL-based segmentation, improving form completion rate by 21%.",
-    "tags": ["A/B Testing", "SQL", "UX Analysis", "Data Analytics"],
+    "name": "Ocean Conservation Analytics",
+    "image": "/microorg.png",
+    "description": "Evaluated Google Analytics data from 50K+ monthly visitors and performed exploratory data analysis using Python and Pandas, improving campaign targeting effectiveness by 20%.",
+    "tags": ["Python", "Pandas", "Google Analytics", "Data Analysis"],
     "source_code": ""
   },
   {
     "id": 5,
-    "name": "Regulatory Compliance Data Validation",
-    "image": "/default-project.png",
-    "description": "Wrote complex SQL queries to support data profiling and validation for a large-scale regulatory compliance project, helping reduce data quality issues by 28%.",
-    "tags": ["SQL", "Data Quality", "Compliance", "Data Profiling"],
+    "name": "Data Workflows with Databricks & Spark",
+    "image": "/gator_taxi.png",
+    "description": "Developed data workflows using Databricks, PyCharm, and Azure Data Lake Storage, leveraging Spark to automate data processing and cutting manual effort significantly.",
+    "tags": ["Databricks", "Apache Spark", "Azure Data Lake", "Data Automation"],
     "source_code": ""
   }
 ]

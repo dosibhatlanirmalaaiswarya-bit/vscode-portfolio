@@ -1,6 +1,6 @@
 import { VerticalTimelineElement } from 'react-vertical-timeline-component';
 import styles from '../styles/EducationCard.module.css';
-import { getAssetPath } from '../lib/utils';
+import SchoolIcon from './icons/SchoolIcon';
 
 const EducationCard = ({ education }) => (
   <VerticalTimelineElement
@@ -13,7 +13,7 @@ const EducationCard = ({ education }) => (
     contentArrowStyle={{ borderRight: '7px solid #f9f9f9' }}
     date={<div className={styles.dateStyle}>{education.date}</div>}
     iconStyle={{ background: education.iconBg, color: '#fff' }}
-    icon={<div className={styles.iconContainer}><img src={getAssetPath(education.icon)} alt={education.school} className={styles.iconSpan} /></div>}
+    icon={<SchoolIcon />}
   >
     <h3 className="vertical-timeline-element-title">{education.degree}</h3>
     <h4 className="vertical-timeline-element-subtitle">{education.school}</h4>

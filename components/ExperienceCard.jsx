@@ -1,6 +1,6 @@
 import { VerticalTimelineElement } from 'react-vertical-timeline-component';
 import styles from '../styles/ExperienceCard.module.css';
-import { getAssetPath } from '../lib/utils';
+import WorkIcon from './icons/WorkIcon';
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
@@ -17,11 +17,7 @@ const ExperienceCard = ({ experience }) => (
       </div>
     )}
     iconStyle={{ background: experience.iconBg, color: '#fff' }}
-    icon={
-      <div className={styles.iconContainer}>
-        <img src={getAssetPath(experience.icon)} alt={experience.company} className={styles.iconSpan} />
-      </div>
-    }
+    icon={<WorkIcon />}
   >
     <h3 className="vertical-timeline-element-title">{experience.title}</h3>
     <h4 className="vertical-timeline-element-subtitle">{experience.company}</h4>

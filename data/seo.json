@@ -1,18 +1,21 @@
 {
-  "title": "Shabnam Rani - Business Analyst Portfolio",
-  "description": "Shabnam Rani is a detail-oriented Business Analyst with 3+ years of experience in insurance and risk domains, specializing in digital transformation, process optimization, and data-driven decision making using SQL, Power BI, and Tableau.",
+  "title": "Aiswarya Dosibhatla - Data Analyst Portfolio",
+  "description": "Aiswarya Dosibhatla is an experienced Data Analyst with 3+ years of experience in data analysis, ETL development, and business intelligence. Proficient in Python, SQL, Power BI, Snowflake, and cloud platforms including Azure and AWS.",
   "keywords": [
-    "shabnam rani",
-    "business analyst",
+    "aiswarya dosibhatla",
     "data analyst",
+    "etl developer",
     "power bi",
     "tableau",
     "sql",
-    "insurance analyst",
-    "risk analyst",
-    "process optimization",
-    "digital transformation"
+    "python",
+    "snowflake",
+    "azure",
+    "aws",
+    "business intelligence",
+    "data visualization",
+    "data warehousing"
   ],
-  "siteUrl": "https://shabnamrani.github.io",
+  "siteUrl": "https://dosibhatlanirmalaaiswarya-bit.github.io",
   "ogImage": "/og-image.png"
 }
