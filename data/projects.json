@@ -5,7 +5,7 @@
     "image": "/sdoh.jpg",
     "description": "Developed a modern data warehouse using SQL Server implementing Medallion Architecture (Bronze, Silver, Gold layers) to consolidate sales data from ERP and CRM systems. Performed ETL activities to extract, transform, and load data from CSV files, including data cleansing, standardization, and normalization processes. Designed and implemented star schema with optimized fact and dimension tables to enable analytical reporting and data-driven decision-making.",
     "tags": ["SQL Server", "ETL", "Medallion Architecture", "Data Warehouse", "Star Schema"],
-    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit"
+    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit/sql-data-ware-house-project"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "image": "/portfolio.png",
     "description": "Executed a Global Consolidated Power BI dashboard with advanced DAX, integrated with Azure cloud, tracking KPIs across 40 regions and reducing reporting time by 40%.",
     "tags": ["Power BI", "DAX", "Azure", "KPI Dashboard", "Data Analytics"],
-    "source_code": ""
+    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit/power-bi-mastery-dynamic-dashboards-advanced-dax"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "image": "/clinical_recruit.png",
     "description": "Engineered comprehensive ETL pipelines using Azure Data Factory, processing 10M+ daily records and improving multi-source reporting accuracy.",
     "tags": ["Azure Data Factory", "ETL", "Data Pipeline", "Big Data"],
-    "source_code": ""
+    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit/Azure-Based-ETL-Pipeline-Using-ADF-Databricks"
   },
   {
     "id": 4,
@@ -37,6 +37,6 @@
     "image": "/gator_taxi.png",
     "description": "Developed data workflows using Databricks, PyCharm, and Azure Data Lake Storage, leveraging Spark to automate data processing and cutting manual effort significantly.",
     "tags": ["Databricks", "Apache Spark", "Azure Data Lake", "Data Automation"],
-    "source_code": ""
+    "source_code": "https://github.com/dosibhatlanirmalaaiswarya-bit/Azure-Based-ETL-Pipeline-Using-ADF-Databricks"
   }
 ]

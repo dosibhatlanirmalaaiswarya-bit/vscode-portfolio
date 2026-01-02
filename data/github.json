@@ -2,9 +2,98 @@
   "user": {
     "login": "dosibhatlanirmalaaiswarya-bit",
     "avatar_url": "/avatar.png",
-    "public_repos": 0,
+    "public_repos": 13,
     "followers": 0,
     "following": 0
   },
-  "repos": []
+  "repos": [
+    {
+      "name": "sql-data-ware-house-project",
+      "description": "Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/sql-data-ware-house-project",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "Azure-Based-ETL-Pipeline-Using-ADF-Databricks",
+      "description": "ETL pipeline using Azure Data Factory and Databricks for data processing",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/Azure-Based-ETL-Pipeline-Using-ADF-Databricks",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "description": "Power BI dashboards with advanced DAX calculations",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "dashboards-development-using-tableau-and-powerbi",
+      "description": "Dashboard development using Tableau and Power BI",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/dashboards-development-using-tableau-and-powerbi",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "realtime-warehousing-with-snowflake",
+      "description": "Real-time data warehousing with Snowflake",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/realtime-warehousing-with-snowflake",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "retail-data-analytics-project-python-sql-integration",
+      "description": "Retail data analytics project with Python and SQL integration",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/retail-data-analytics-project-python-sql-integration",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "YouTube-Data-Analytics-Project---Python---Pandas",
+      "description": "YouTube data analytics using Python and Pandas",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/YouTube-Data-Analytics-Project---Python---Pandas",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "us-healthcare-analysis-powerbi",
+      "description": "US Healthcare analysis using Power BI",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/us-healthcare-analysis-powerbi",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "fraud-detection-using-machine-learning",
+      "description": "Fraud detection using machine learning techniques",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/fraud-detection-using-machine-learning",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "Exploring-Weather-Trends",
+      "description": "Exploring global weather trends through data analysis",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/Exploring-Weather-Trends",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    },
+    {
+      "name": "LeetCode-Solutions",
+      "description": "LeetCode challenges and solutions",
+      "html_url": "https://github.com/dosibhatlanirmalaaiswarya-bit/LeetCode-Solutions",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0
+    }
+  ]
 }

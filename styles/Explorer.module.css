@@ -1,9 +1,14 @@
 .explorer {
   background: var(--explorer-bg);
   width: 18vw;
-  color: rgb(225, 228, 232);
+  color: #ffffff;
   font-family: 'Source Sans Pro', sans-serif;
   border-right: 1px solid var(--explorer-border);
+}
+
+.explorer a {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .title {
